@@ -1,0 +1,8 @@
+HelloWorldIntent hello
+HelloWorldIntent say hello
+HelloWorldIntent say hello world
+GetFactAbout fact about {name}
+GetFactAbout facts {name}
+GetFactAbout facts of {name}
+GetFactAbout {name}
+GetFactAbout get fact about {name}

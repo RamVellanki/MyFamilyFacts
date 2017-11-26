@@ -1,0 +1,16 @@
+{
+    "intents": [
+      {
+        "intent": "HelloWorldIntent"
+      },
+      {
+        "slots": [
+          {
+            "name": "name",
+            "type": "AMAZON.FirstName"
+          }
+        ],
+        "intent": "GetFactAbout"
+      }
+    ]
+  }
